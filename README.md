@@ -4,6 +4,9 @@ Hi 👋 My name is Mehmet
 Frontend Developer
 ------------------
 
+Hands-on experience in 30+ projects across banking, e-commerce, and holding industries.  
+Currently focused on rebuilding legacy e-commerce platforms built with Django and vanilla JavaScript by migrating them to modern stacks like **Next.js**, **Tailwind CSS**, and **TypeScript**.
+
 * 🌍  I'm based in Turkey, Muğla
 * ✉️  You can contact me at [mberkguven@gmail.com](mailto:mberkguven@gmail.com)
 * 🧠  I'm currently learning TypeScript
