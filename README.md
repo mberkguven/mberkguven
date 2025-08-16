@@ -9,7 +9,6 @@ Currently focused on rebuilding legacy e-commerce platforms built with Django an
 
 * 🌍  I'm based in Turkey, Muğla
 * ✉️  You can contact me at [mberkguven@gmail.com](mailto:mberkguven@gmail.com)
-* 🧠  I'm currently learning TypeScript
 * 👥  I'm looking to collaborate remotely on exciting projects as a frontend developer.
 
 ---
