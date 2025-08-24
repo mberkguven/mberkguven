@@ -1,4 +1,4 @@
-Hi 👋 My name is Mehmet
+Hi 👋
 =======================
 
 Frontend Developer
